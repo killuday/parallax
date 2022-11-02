@@ -3,8 +3,8 @@ import React from 'react'
 const TextBox = () => {
   return (
     <div className='text-box'>
-        <h3>Get High</h3>
-        <p style={{fontFamily: 'Pacifico'}}>
+        <h3 style={{fontFamily: 'Creepster'}}>GO High</h3>
+        <p style={{fontFamily: 'Cinzel'}}>
             Hii i am Uday i created this parallax website using react.js i started from java
             a backend programming language and then learned about databases, 'this is a textbox' 
             between this parallax so you can get to know a little bit about the creator so i was 
