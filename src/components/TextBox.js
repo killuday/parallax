@@ -6,13 +6,13 @@ const TextBox = () => {
         <h3 style={{fontFamily: 'Creepster'}}>GO High</h3>
         <p style={{fontFamily: 'Cinzel'}}>
             Hii i am Uday i created this parallax website using react.js i started from java
-            a backend programming language and then learned about databases, 'this is a textbox' 
-            between this parallax so you can get to know a little bit about the creator so i was 
+            a backend programming language, 'this is a textbox' 
+            between this parallax so you get to know a little about the creator so i was 
             talking about my journey in web development then i shifted towards node.js a javascript 
-            server side runtime environment used as server side programming language then i worked on  databases with node.js and then Rest api's
-            and more then i shifted towards javascript's frontend libraries and framworks like
-            react.js and next.js vue.js too but i didn't liked it for some reason so i sticked with react
-            and its frameworks its still alot to learning and i am still learning thanks!!
+            server side runtime environment used as server side programming language and i worked on  databases with node.js and Rest api's
+            and more then i started learning javascript's frontend libraries and framworks like
+            react.js and next.js vue.js too but i didn't liked Vue.js for some reason so i sticked with react
+            and react's frameworks its still a lot to learn and i am still learning thanks for reading!!
         </p>
     </div>
   )
