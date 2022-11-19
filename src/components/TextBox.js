@@ -3,16 +3,24 @@ import React from 'react'
 const TextBox = () => {
   return (
     <div className='text-box'>
-        <h3 style={{fontFamily: 'Creepster'}}>GO High</h3>
+        <h3 style={{fontFamily: 'Creepster'}}>D3mons</h3>
         <p style={{fontFamily: 'Cinzel'}}>
-            Hii i am Uday i created this parallax website using react.js i started from java
-            a backend programming language, 'this is a textbox' 
-            between this parallax so you get to know a little about the creator so i was 
-            talking about my journey in web development then i shifted towards node.js a javascript 
-            server side runtime environment used as server side programming language and i worked on  databases with node.js and Rest api's
-            and more then i started learning javascript's frontend libraries and framworks like
-            react.js and next.js vue.js too but i didn't liked Vue.js for some reason so i sticked with react
-            and react's frameworks its still a lot to learn and i am still learning thanks for reading!!
+        I wake up screaming in my sleep every fucking night
+Open up my eyes to cold sweat, bloody clothes from my nose, ech
+Nothing nice, Father I’ve killed a man, but I had to do it
+Only thing is he is me, damn, how the fuck you couldn’t get me through this?!
+My skin is bluish, voices in my head saying
+Don’t be stupid all you have is in that bag you better use it!
+Cut it, snuff it, puff it, shoot it,
+only one I trust now is myself these muthafucka’s Judas
+Gun in my pillow 'cause all I feel is this paranoia
+Holes in my wall from all them nights that I was feeling for him
+The devils here but I’m still awake, then I broke the mirror
+Why? Cause I seen his face, even my bitch corrupted
+I fucked her pussy until it's bloody
+took it out and then she sucked it told me that she loved it, Bitch
+Everything is black I think I am deceased
+I am a ghost without the bed sheets, X speak
         </p>
     </div>
   )
